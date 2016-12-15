@@ -1,0 +1,69 @@
+! Title: Mini Adblock Filter - Block Nyaa.eu
+! license: copyright item4 reserved. GPLv3+
+
+! Block all png/jpg images
+||files.nyaa.se/*.png
+||files.nyaa.se/*.jpg
+
+! White list: topbar
+@@||files.nyaa.se/topbar.png
+
+! White list: Download Button (mini)
+@@||files.nyaa.se/www-7.png
+
+! White list: Download Button
+@@||files.nyaa.se/www-8.png
+
+! White list: Download .txt Button
+@@||files.nyaa.se/www-9.png
+
+! White list: Anime Music Video
+@@||files.nyaa.se/www-32.png
+
+! White list: English-translated Anime
+@@||files.nyaa.se/www-37.png
+
+! White list: Non-English-translated Anime
+@@||files.nyaa.se/www-38.png
+
+! White list: Raw Anime
+@@||files.nyaa.se/www-11.png
+
+! White list: Lossless Audio
+@@||files.nyaa.se/www-14.png
+
+! White list: Lossy Audio
+@@||files.nyaa.se/www-15.png
+
+! White list: English-translated Literature
+@@||files.nyaa.se/www-12.png
+
+! White list: Non-English-translated Literature
+@@||files.nyaa.se/www-39.png
+
+! White list: Raw Literature
+@@||files.nyaa.se/www-13.png
+
+! White list: English-translated Live Action
+@@||files.nyaa.se/www-19.png
+
+! White list: Live Action Promotional Video
+@@||files.nyaa.se/www-22.png
+
+! White list: Non-English-translated Live Action
+@@||files.nyaa.se/www-21.png
+
+! White list: Raw Live Action
+@@||files.nyaa.se/www-20.png
+
+! White list: Graphics
+@@||files.nyaa.se/www-18.png
+
+! White list: Photos
+@@||files.nyaa.se/www-17.png
+
+! White list: Applications
+@@||files.nyaa.se/www-23.png
+
+! White list: Games
+@@||files.nyaa.se/www-24.png

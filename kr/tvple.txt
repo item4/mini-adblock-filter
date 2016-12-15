@@ -1,0 +1,26 @@
+! Title: Mini Adblock Filter - 티비플 (tvple.com)
+! license: gray. fork from 티비플#r839@namu.wiki, ball2k
+
+! Block ad.
+tvple.com#@#.pub_300x250
+tvple.com#@#.pub_300x250m
+tvple.com#@#.pub_728x90
+tvple.com#@#.text-ad
+tvple.com#@#.textAd
+tvple.com#@#.text_ad
+tvple.com#@#.text_ads
+tvple.com#@#.text-ads
+tvple.com#@#.text-ad-links
+
+! Remove block warning
+tvple.com###video-player > .bnp-overlay > .bnp-ov-warning > .bnp-ov-warning-wrap > .bnp-ov-warning-body > .bnp-ov-warning-content
+tvple.com###video-player > .bnp-overlay > .bnp-ov-sticky > .bnp-ov-sticky-wrap > .bnp-ov-sticky-body > .bnp-ov-sticky-content
+tvple.com###video-player > .closed.hidden-xs.hidden-xxs.video-player-overlay
+tvple.com###video-player > .hidden-xs.hidden-xxs.video-player-overlay
+tvple-static.akamaized.net/static/img/logo-retina-likecloud.png
+
+! Prevent useless loading
+tvple.com/__/alerts
+tvple.com/ab/PC-B-B01/
+tvple.com/ab/PC-B-B02/
+tvple.com/ab/PC-O-B03/
