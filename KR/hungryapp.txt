@@ -1,3 +1,6 @@
+! Title: Mini Adblock Filter - Clean-up Hungryapp	
+! license: MIT
+
 ||appdata.hungryapp.co.kr/banner/*$image
 ||appdata.hungryapp.co.kr/images/main1404/common/quick_bg.jpg$image
 www.hungryapp.co.kr##.lbcp
