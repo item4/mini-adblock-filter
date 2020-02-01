@@ -1,7 +1,7 @@
 Mini Adblock Filter
 ===================
 
-MAF is simple and site-specific adblock filter.
+MAF is simple and site-specific clean-up filter
 
 
 Support Filters
@@ -13,13 +13,13 @@ GitHub README do not allow abp link.
 ### Rep. of Korea
 
 <ul>
-    <li><a href="//raw.githubusercontent.com/item4/mini-adblock-filter/master/kr/tvple.txt">티비플 (tvple.com)</a></li>
+    <li><a href="//raw.githubusercontent.com/item4/mini-adblock-filter/master/KR/hungryapp.txt">헝그리앱 (www.hungryapp.co.kr)</a></li>
 </ul>
 
-### Japan
+### USA
 
 <ul>
-    <li><a href="//raw.githubusercontent.com/item4/mini-adblock-filter/master/jp/nyaa.txt">Nyaa torrent (nyaa.eu)</a></li>
+    <li><a href="//raw.githubusercontent.com/item4/mini-adblock-filter/master/US/twitter.txt">Twitter (twitter.com)</a></li>
 </ul>
 
 

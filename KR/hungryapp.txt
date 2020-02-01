@@ -1,0 +1,13 @@
+||appdata.hungryapp.co.kr/banner/*$image
+||appdata.hungryapp.co.kr/images/main1404/common/quick_bg.jpg$image
+www.hungryapp.co.kr##.lbcp
+www.hungryapp.co.kr##.RightQiuck
+www.hungryapp.co.kr##.jinsil
+www.hungryapp.co.kr##.PhotoTalk
+www.hungryapp.co.kr##.view > script + table
+www.hungryapp.co.kr##.NewsBtmList2
+www.hungryapp.co.kr##.issue
+www.hungryapp.co.kr##.fixed-top
+www.hungryapp.co.kr###autoLogOut
+www.hungryapp.co.kr###alarmTop
+
