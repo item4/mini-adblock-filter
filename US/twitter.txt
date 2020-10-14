@@ -1,6 +1,5 @@
 ! Title: Mini Adblock Filter - Clean-up Twitter	
 ! license: MIT
 
-||api.twitter.com/1.1/users/recommendations.json
 ||api.twitter.com/2/guide.json
-
+||twitter.com/i/api/1.1/users/recommendations.json
