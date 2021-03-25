@@ -3,3 +3,5 @@
 
 ||twitter.com/i/api/2/guide.json
 ||twitter.com/i/api/1.1/users/recommendations.json
+||twitter.com/i/api/graphql/*/TopicToFollowSidebar
+
