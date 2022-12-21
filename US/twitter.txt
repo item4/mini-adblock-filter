@@ -4,4 +4,7 @@
 ||twitter.com/i/api/2/guide.json
 ||twitter.com/i/api/1.1/users/recommendations.json
 ||twitter.com/i/api/graphql/*/TopicToFollowSidebar
+||api.twitter.com/2/guide.json
+||api.twitter.com/1.1/users/recommendations.json
+||api.twitter.com/graphql/*/TopicToFollowSidebar
 
