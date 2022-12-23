@@ -1,0 +1,5 @@
+! Title: Mini Adblock Filter - No Analytics Tweet
+! license: MIT
+
+twitter.com##:xpath(//div[@role='group']/div[a[@role='link'][substring(@href, string-length(@href) - string-length('/analytics') + 1)  = '/analytics']])
+
