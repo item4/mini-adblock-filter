@@ -7,4 +7,5 @@
 ||api.twitter.com/2/guide.json
 ||api.twitter.com/1.1/users/recommendations.json
 ||api.twitter.com/graphql/*/TopicToFollowSidebar
-
+twitter.com##:xpath(//div[count(aside[@role = 'complementary']) = 1])
+twitter.com##:xpath(//a[@href = '/i/verified-choose'])
