@@ -1,0 +1,7 @@
+.display-name__html img.custom-emoji:is(
+  [alt$="veriried:"],
+  [alt^=":verified"],
+  [alt$="verify:"],
+  [alt^=":verify"]) {
+  display: none;
+}
