@@ -1,3 +1,10 @@
+/* ==UserStyle==
+@name         Remove :verified: custom emoji from Fediverse username
+@namespace    github.com/mini-adblock-filter
+@version      0.1.0
+@license      MIT
+==/UserStyle== */
+
 .display-name__html img.custom-emoji:is(
   [alt$="veriried:"],
   [alt^=":verified"],
