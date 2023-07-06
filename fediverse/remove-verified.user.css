@@ -6,7 +6,7 @@
 ==/UserStyle== */
 
 .display-name__html img.custom-emoji:is(
-  [alt$="veriried:"],
+  [alt$="verified:"],
   [alt^=":verified"],
   [alt$="verify:"],
   [alt^=":verify"]) {
