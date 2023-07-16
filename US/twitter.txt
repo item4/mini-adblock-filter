@@ -7,5 +7,6 @@
 ||api.twitter.com/2/guide.json
 ||api.twitter.com/1.1/users/recommendations.json
 ||api.twitter.com/graphql/*/TopicToFollowSidebar
-twitter.com##:xpath(//div[aside[@role = 'complementary'][starts-with(@aria-label, '인증')])
+twitter.com##:xpath(//div[aside[@role = 'complementary'][starts-with(@aria-label, '인증')]))
 twitter.com##:xpath(//a[@href = '/i/verified-choose'])
+
