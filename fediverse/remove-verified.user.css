@@ -6,7 +6,7 @@
 @license      MIT
 ==/UserStyle== */
 
-.display-name__html img.custom-emoji:is(
+:is(.display-name__html, .status__display-name) img.custom-emoji:is(
   [alt$="verified:"],
   [alt^=":verified"],
   [alt$="verify:"],
