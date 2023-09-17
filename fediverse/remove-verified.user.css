@@ -7,10 +7,12 @@
 ==/UserStyle== */
 
 :is(.display-name__html, .status__display-name) img.custom-emoji:is(
+  [alt=":press:"],
+  [alt=":ver_mus:"],
+  [alt=":coffefied:"],
+  [alt^=":verif"],
   [alt$="verified:"],
-  [alt^=":verified"],
   [alt$="verify:"],
-  [alt^=":verify"],
   [alt$="verifiedx:"]) {
   display: none;
 }
