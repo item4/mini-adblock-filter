@@ -6,7 +6,7 @@
 @license      MIT
 ==/UserStyle== */
 
-:is(.display-name__html, .status__display-name) img.custom-emoji:is(
+:is(.display-name__html, .status__display-name, .notification__display-name) img.custom-emoji:is(
   [alt=":press:"],
   [alt=":ver_mus:"],
   [alt=":coffefied:"],
